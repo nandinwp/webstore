@@ -1,0 +1,21 @@
+{
+    "name": "luyfe/webstore",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Luyfe\\Webstore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FernandoCPG",
+            "email": "45340843+nandinwp@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "core\\" : "core/"
+        }
+    }
+}
